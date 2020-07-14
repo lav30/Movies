@@ -1,2 +1,4 @@
 # Movies
-Data Extraction from the Movies Dataset
+Exploratory Data Analysis of the Movies Dataset. 
+
+
